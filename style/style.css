@@ -1,0 +1,19 @@
+.main-div{
+    background-color: aqua;
+    width: 30%;
+    margin: auto;
+    margin-top: 200px;
+}
+.login{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.Name{
+    padding-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.namebox{
+    padding-left: 20px;
+}
